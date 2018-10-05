@@ -45,3 +45,4 @@ I love helping out but my time during the work week is limited. I'll do my best 
 ## We'll add your names and title here
 Make your title sound cool.
 * Alex: _Senior Archangel Demigod XXVIII; Software Sensei_
+* Camille: _Cephalopod Enthusiast_
